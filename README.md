@@ -1,5 +1,5 @@
 # Lab3Web
-## Praktikum# 3: PHP dan Database MySQL
+## Praktikum 3: PHP dan Database MySQL
 ## Membuat aplikasi CRUD sederhana.
 
 
